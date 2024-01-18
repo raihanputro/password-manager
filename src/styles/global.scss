@@ -1,0 +1,15 @@
+@import './font.scss';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    padding: 10px;
+    width: 100%;
+    font-family: $font-main;
+}   

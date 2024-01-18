@@ -1,11 +1,18 @@
 {
-    "password": [
-      {
-        "id": 1,
-        "provider": "phincon.com",
-        "email": "mail@phincon.com",
-        "password": "Bethebest123",
-        "category": "work"
-      }
-    ]
-  }
+  "password": [
+    {
+      "id": "c6c2",
+      "provider": "phincon.com",
+      "email": "phincon@gmail.com",
+      "password": "phincon123",
+      "category": "work"
+    },
+    {
+      "id": "4e34",
+      "provider": "raihan.com",
+      "email": "raihanworks461@gmail.com",
+      "password": "RaihanPutro040601",
+      "category": "personal"
+    }
+  ]
+}
